@@ -2,14 +2,9 @@
 
 i am a systems and software engineer.
 
-i build lowlevel stuff and experiment with systems programming.
+i build lowlevel stuff, and i make programs.
 
 # tech stack
 - assembler
-- c / c++
-- os development
+- c / c++- os development
 - embedded systems
-
-# contact
-- github: @abrakadam
-- email yehorslyvkin@gmail.com
