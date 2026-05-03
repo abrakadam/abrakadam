@@ -1,6 +1,6 @@
-# hello there
+# sup
 
-i am a systems and software engineer.
+im a systems and software engineer.
 
 i build lowlevel stuff, and i make programs.
 
