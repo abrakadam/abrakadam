@@ -9,19 +9,23 @@ c++ dev messing around with minecraft stuff and helping with [project name]
 
 ## stack
 
-![cpp](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![java](https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+[![C++](https://skillicons.dev/cpp.svg)](https://skillicons.dev)
+[![Java](https://skillicons.dev/java.svg)](https://skillicons.dev)
+[![Python](https://skillicons.dev/python.svg)](https://skillicons.dev)
+
+---
+
+## stats
+
+![commits](https://img.shields.io/github/commit-activity/y/abrakadam?style=for-the-badge&color=blue)
+![streak](https://github-readme-streak-stats.herokuapp.com/?user=abrakadam&theme=radical)
 
 ---
 
 ## what i'm doing rn
 
-### minecraft modifications/plugins
+### minecraft mods/plugins
 building stuff for minecraft, mostly in java and c++
-
-### [project name]
-contributing to this project, c++ work
 
 ### random experiments
 python scripts and whatever else catches my eye
