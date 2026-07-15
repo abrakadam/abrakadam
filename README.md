@@ -2,9 +2,6 @@
 
 c++ dev messing around with minecraft stuff and working on RaveX
 
-![stats](https://github-readme-stats.vercel.app/api?username=abrakadam&show_icons=true&theme=radical)
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abrakadam&theme=radical)
-
 ---
 
 ## stack
@@ -18,10 +15,10 @@ c++ dev messing around with minecraft stuff and working on RaveX
 ## featured
 
 ### [RaveX](https://github.com/StormDevzz/RaveX)
-> c++ project i'm currently developing
+> java project i'm currently developing
 
-![RaveX](https://img.shields.io/badge/RaveX-active-blue?style=for-the-badge)
-![C++](https://img.shields.io/badge/C++-main_language-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com)
+[![RaveX](https://img.shields.io/badge/status-active-success?style=for-the-badge)](https://github.com/StormDevzz/RaveX)
 
 ---
 
