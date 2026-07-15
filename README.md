@@ -4,12 +4,6 @@ c++ dev messing around with minecraft stuff, currently focused on RaveX
 
 ---
 
-## stats
-
-![streak](https://github-readme-streak-stats.herokuapp.com/?user=abrakadam&theme=radical)
-
----
-
 ## featured
 
 ### [RaveX](https://github.com/StormDevzz/RaveX)
@@ -20,13 +14,9 @@ c++ dev messing around with minecraft stuff, currently focused on RaveX
 
 ---
 
-## what else i do
+## stats
 
-### minecraft mods/plugins
-building stuff for minecraft, mostly in java and c++
-
-### random experiments
-python scripts and whatever else catches my eye
+![streak](https://github-readme-streak-stats.herokuapp.com/?user=abrakadam&theme=radical)
 
 ---
 
