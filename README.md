@@ -1,6 +1,6 @@
 # hey, i'm abrakadam
 
-## featured
+## current focus
 
 ### [RaveX](https://github.com/StormDevzz/RaveX)
 > java project i'm currently developing
