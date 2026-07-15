@@ -2,8 +2,15 @@
 
 c++ dev messing around with minecraft stuff and working on RaveX
 
-![stats](https://github-readme-stats.vercel.app/api?username=abrakadam&show_icons=true&theme=radical)
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abrakadam&theme=radical)
+---
+
+## featured project
+
+### [RaveX](https://github.com/StormDevzz/RaveX)
+
+> currently developing this in c++
+
+[![RaveX](https://github-readme-stats.vercel.app/api/pin/?username=StormDevzz&repo=RaveX&theme=radical)](https://github.com/StormDevzz/RaveX)
 
 ---
 
@@ -15,16 +22,7 @@ c++ dev messing around with minecraft stuff and working on RaveX
 
 ---
 
-## stats
-
-![streak](https://github-readme-streak-stats.herokuapp.com/?user=abrakadam&theme=radical)
-
----
-
-## what i'm doing rn
-
-### [RaveX](https://github.com/StormDevzz/RaveX)
-working on this project, c++ development
+## what else i do
 
 ### minecraft mods/plugins
 building stuff for minecraft, mostly in java and c++
