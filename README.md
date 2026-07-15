@@ -1,9 +1,5 @@
 # hey, i'm abrakadam
 
-c++ dev messing around with minecraft stuff, currently focused on RaveX
-
----
-
 ## featured
 
 ### [RaveX](https://github.com/StormDevzz/RaveX)
@@ -18,6 +14,3 @@ c++ dev messing around with minecraft stuff, currently focused on RaveX
 
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=abrakadam&theme=radical)
 
----
-
-*probably debugging something that shouldn't have been broken in the first place*
