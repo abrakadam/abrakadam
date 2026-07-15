@@ -1,6 +1,6 @@
 # hey, i'm abrakadam
 
-c++ dev messing around with minecraft stuff and helping with [project name]
+c++ dev messing around with minecraft stuff and working on RaveX
 
 ![stats](https://github-readme-stats.vercel.app/api?username=abrakadam&show_icons=true&theme=radical)
 ![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abrakadam&theme=radical)
@@ -9,20 +9,22 @@ c++ dev messing around with minecraft stuff and helping with [project name]
 
 ## stack
 
-[![C++](https://skillicons.dev/cpp.svg)](https://skillicons.dev)
-[![Java](https://skillicons.dev/java.svg)](https://skillicons.dev)
-[![Python](https://skillicons.dev/python.svg)](https://skillicons.dev)
+<img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C++" width="50">
+<img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java" width="50">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50">
 
 ---
 
 ## stats
 
-![commits](https://img.shields.io/github/commit-activity/y/abrakadam?style=for-the-badge&color=blue)
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=abrakadam&theme=radical)
 
 ---
 
 ## what i'm doing rn
+
+### [RaveX](https://github.com/StormDevzz/RaveX)
+working on this project, c++ development
 
 ### minecraft mods/plugins
 building stuff for minecraft, mostly in java and c++
