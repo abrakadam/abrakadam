@@ -1,21 +1,12 @@
 # hey, i'm abrakadam
 
-c++ dev messing around with minecraft stuff and working on RaveX
-
----
-
-## stack
-
-<img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C++" width="50">
-<img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java" width="50">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50">
+c++ dev messing around with minecraft stuff, currently focused on RaveX
 
 ---
 
 ## stats
 
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=abrakadam&theme=radical)
-![commits](https://img.shields.io/github/commit-activity/t/abrakadam?style=for-the-badge&color=blue)
 
 ---
 
