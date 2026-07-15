@@ -12,6 +12,13 @@ c++ dev messing around with minecraft stuff and working on RaveX
 
 ---
 
+## stats
+
+![streak](https://github-readme-streak-stats.herokuapp.com/?user=abrakadam&theme=radical)
+![commits](https://img.shields.io/github/commit-activity/t/abrakadam?style=for-the-badge&color=blue)
+
+---
+
 ## featured
 
 ### [RaveX](https://github.com/StormDevzz/RaveX)
