@@ -14,5 +14,5 @@
 
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=abrakadam&theme=radical)
 ![profile summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abrakadam&theme=radical)
-GET https://api.github.com/users/abrakadam/repos
+https://api.github.com/users/abrakadam/repos
 
