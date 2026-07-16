@@ -13,4 +13,4 @@
 ## stats
 
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=abrakadam&theme=radical)
-![contribs](https://github-contributions.vercel.app/api/abrakadam?theme=radical)
+![stats](https://github-readme-stats.vercel.app/api?username=abrakadam&show_icons=true&theme=radical&hide_border=true)
