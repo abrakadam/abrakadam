@@ -13,4 +13,4 @@
 ## stats
 
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=abrakadam&theme=radical)
-
+![contributions](https://img.shields.io/badge/contributions-1721-blue?style=for-the-badge)
