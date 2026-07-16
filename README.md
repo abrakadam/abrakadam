@@ -14,3 +14,4 @@
 
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=abrakadam&theme=radical)
 ![profile summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abrakadam&theme=radical)
+![Top Langs - Personal](https://github-readme-stats.vercel.app/api/top-langs/?username=abrakadam&theme=radical&hide_border=true)
